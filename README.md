@@ -1,5 +1,3 @@
-# Vitor-Brum-Ramos
-My personal repository.
 # 👋 Olá, eu sou o Vitor!
 
 🎓 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco na área de **Infraestrutura de TI**.  
